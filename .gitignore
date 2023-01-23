@@ -1,0 +1,6 @@
+logs/debug.log
+logs/monday/foo.bar
+build/logs/debug.log
+logs
+logs/latest/foo.bar
+build/logs
